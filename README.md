@@ -3,7 +3,9 @@
 
 ### 👽 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently learning and looking for Job! \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;I love to develop in JavaScript and React \
+
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently learning and open for work! \
 
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;I am creative, always looking for challenge, constantly learning and super curious!
 
