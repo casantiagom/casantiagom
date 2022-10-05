@@ -3,9 +3,9 @@
 
 ###  &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;  &nbsp;I love to develop in React and Javascript, In the past I worked in the gaming industry as a Sound Designer
+&nbsp;&nbsp;&nbsp;  &nbsp;-I love to develop in React and Javascript.
 
-&nbsp;&nbsp;&nbsp;  &nbsp;Currently learning and open for work! 
+&nbsp;&nbsp;&nbsp;  &nbsp;-In the past I worked in the gaming industry as a Sound Designer for 5+ years.
 
 &nbsp;&nbsp;&nbsp;  &nbsp;I am creative professional, always looking for challenge, constantly learning and super curious!
 
