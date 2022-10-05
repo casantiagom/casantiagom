@@ -1,7 +1,7 @@
 
 
 
-### 👽 &nbsp;About Me
+###  &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;I love to develop in JavaScript and React \
 
@@ -11,8 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love to hike, cook, play and listen to music.\
 <p align="center">
-  <a href="mailto:casantiagom@gmail.com?subject=zup%20Carlos"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/casantiagom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:casantiagom@gmail.com?subject=Hi%20Carlos!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/carlossantiagomu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
