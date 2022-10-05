@@ -3,15 +3,15 @@
 
 ###  &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;  &nbsp;I love to develop in React and Javascript \
+&nbsp;&nbsp;&nbsp;  &nbsp;I love to develop in React and Javascript 
 
-&nbsp;&nbsp;&nbsp;  &nbsp;Currently learning and open for work! \
+&nbsp;&nbsp;&nbsp;  &nbsp;Currently learning and open for work! 
 
 &nbsp;&nbsp;&nbsp;  &nbsp;I am creative, always looking for challenge, constantly learning and super curious!
 
-&nbsp;&nbsp;&nbsp;  &nbsp;Love to hike, cook, play and listen to music.\
+&nbsp;&nbsp;&nbsp;  &nbsp;Love to hike, cook, play and listen to music.
 
-&nbsp;&nbsp;&nbsp;  &nbsp;https://www.linkedin.com/in/carlossantiagomu/
+&nbsp;&nbsp;&nbsp;  &nbsp;My LinkedIn https://www.linkedin.com/in/carlossantiagomu
 <p align="center">
   <a href="mailto:casantiagom@gmail.com?subject=Hi%20Carlos!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carlossantiagomu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
