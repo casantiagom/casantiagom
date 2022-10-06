@@ -75,9 +75,10 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 </details>
 
-Non-school projects below.
+
 
 <hr/>
 
+Non school projects below.
 
 
