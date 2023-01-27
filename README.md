@@ -3,7 +3,7 @@
 
 ###  &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;  &nbsp;-I love to develop in React and Javascript.
+&nbsp;&nbsp;&nbsp;  &nbsp;-I love to develop in Next.js, React and Javascript.
 
 &nbsp;&nbsp;&nbsp;  &nbsp;-In the past I worked in the gaming industry as a Sound Designer for 5+ years.
 
