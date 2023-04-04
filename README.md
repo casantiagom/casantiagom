@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;  &nbsp;-I love to develop in Next.js, React and Javascript.
 
-&nbsp;&nbsp;&nbsp;  &nbsp;-In the past I worked in the gaming industry as a Sound Designer for 5+ years.
+&nbsp;&nbsp;&nbsp;  &nbsp;- 8+ years of experience as a Sound Designer for Videogames.
 
 &nbsp;&nbsp;&nbsp;  &nbsp;I am creative professional, always looking for challenge, constantly learning and super curious!
 
