@@ -3,7 +3,7 @@
 
 ###  &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;  &nbsp;-I love to develop in Next.js, React and Javascript.
+&nbsp;&nbsp;&nbsp;  &nbsp;-I enjoy developing and creating in Unreal, Javascript, C++ and React/
 
 &nbsp;&nbsp;&nbsp;  &nbsp;- 8+ years of experience as a Sound Designer for Videogames.
 
